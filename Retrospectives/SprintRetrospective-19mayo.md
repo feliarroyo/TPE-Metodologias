@@ -2,26 +2,26 @@
 
 ## Toma de nota
 
-1. User Stories
-	1. Agregar épicas, pasar backlog a markdown 
-	2. puede ser uno por archivo o todos en uno
-2. Ajustar diagrama de casos de uso 
-	1. mucho include
-	2. volar ingresar a la página
-	3. reescribir especificaciones en base a eso
-3. Refinar diagrama de clases
-	1. Las clases dentro de todo son esas
-	2. Solicitud <-> Secretaria (NO VA)
-	3. "No todas van a ser rombos"
-	4. Falta pesaje?
-	5. Recorrido es conjunto de domicilios -> clase domicilio
-	6. Cooperativa tiene secretaria, cartoneros (rombos)
-	7. Definir tipos para los atributos
-	8. Agregación "empleado" para secretaria-cartonero? por ejemplo
-4. Scrum board
-	1. Trello?
-5. Incremento
-	1. Preguntar para la teoría
+- User Stories
+	- Agregar épicas, pasar backlog a markdown 
+	- puede ser uno por archivo o todos en uno
+- Ajustar diagrama de casos de uso 
+	- mucho include
+	- volar ingresar a la página
+	- reescribir especificaciones en base a eso
+- Refinar diagrama de clases
+	- Las clases dentro de todo son esas
+	- Solicitud <-> Secretaria (NO VA)
+	- "No todas van a ser rombos"
+	- Falta pesaje?
+	- Recorrido es conjunto de domicilios -> clase domicilio
+	- Cooperativa tiene secretaria, cartoneros (rombos)
+	- Definir tipos para los atributos
+	- Agregación "empleado" para secretaria-cartonero? por ejemplo
+- Scrum board
+	- Trello?
+- Incremento
+	- Preguntar para la teoría
 
 
 ## ACTION ITEMS
