@@ -1,4 +1,4 @@
-# Epica N°1: Como ciudadano quiero contribuir con la cooperativa para ayudar al medio ambiente de mi entorno local.
+# Epica N°2: Como ciudadano quiero contribuir con la cooperativa para ayudar al medio ambiente de mi entorno local.
 
 ## Descripción
 

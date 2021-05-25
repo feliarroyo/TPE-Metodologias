@@ -1,10 +1,13 @@
-# Epica N°1: Como ciudadano quiero contribuir con la cooperativa para ayudar al medio ambiente de mi entorno local.
+# Epica N°3: Como secretaria quiero dirigir las actividades y datos de la cooperativa para organizar la cadena de trabajo.
 
 ## Descripción
 
-El ciudadano quiere colaborar con la labor de la cooperativa (no como cartonero, sino como contribuyente). Para ello, utiliza el sistema de la cooperativa de ofertas de transporte, donde puede publicar ofertas en las que ofrece su vehículo para un recorrido determinado en el que recoger reciclables; o unirse a alguna de las ofertas que otros ciudadanos hayan publicado.
+La secretaria se encarga de que todo en la cooperativa trabaje correctamente. Esto incluye el manejo de la base de datos (incorporar, modificar o eliminar datos de empleados), así como también el registro de lo ingresado para pagar los saldos a los trabajadores.
 
 ### User Stories que la componen:
 
-- User Story 5: Como ciudadano quiero publicar una oferta de transporte para que otras personas puedan unirse al recorrido.
-- User Story 6: Como ciudadano quiero postularme a la oferta de otra persona para hacer uso del servicio.
+- User Story 7: Como secretaria quiero dar de alta empleados para mantener al día la base de datos respecto a nuevas incorporaciones.
+- User Story 8: Como secretaria quiero dar de baja empleados para mantener al día la base de datos.
+- User Story 9: Como secretaria quiero modificar los datos de mis empleados para mantener al día la base de datos respecto a cambios en el tiempo.
+- User Story 12: Como secretaria quiero registrar los materiales ingresados por cada colaborador/cartonero para mantener registro de los materiales que reune la cooperativa.
+- User Story 13: Como secretaria quiero llevar cuenta del peso de lo ingresado por cada cartonero para definir su paga correspondiente cuando se concrete una venta.
