@@ -2,7 +2,7 @@
 
 ## 1. Descripción breve
 
-El ciudadano ingresa a la página para publicar una oferta de transporte.
+El ciudadano ingresa a la seccion especifica de la página para publicar una oferta de transporte.
 
 ## 2. Curso básico de eventos
 
