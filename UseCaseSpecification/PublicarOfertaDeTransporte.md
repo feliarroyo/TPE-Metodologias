@@ -7,13 +7,12 @@ El ciudadano ingresa a la página para publicar una oferta de transporte.
 ## 2. Curso básico de eventos
 
 1. El caso de uso comienza cuando el ciudadano desea publicar en la página una oferta de transporte.
-2. (INCLUDE) El ciudadano ingresa a la página.
-3. El ciudadano ingresa a la sección para publicar una oferta de transporte.
-4. La página le solicita nombre, teléfono, email, dirección, espacio disponible y brinda un espacio de texto opcional.
-5. El ciudadano ingresa los datos solicitados.
-6. La página genera el posteo, colocando solo visible la zona geográfica, espacio disponible y el texto libre.
-7. La página muestra un aviso informando que el posteo se realizó de forma exitosa.
-8. El caso de uso finaliza.
+2. El ciudadano ingresa a la sección para publicar una oferta de transporte.
+3. La página le solicita nombre, teléfono, email, dirección, espacio disponible y brinda un espacio de texto opcional.
+4. El ciudadano ingresa los datos solicitados.
+5. La página genera el posteo, colocando solo visible la zona geográfica, espacio disponible y el texto libre.
+6. La página muestra un aviso informando que el posteo se realizó de forma exitosa.
+7. El caso de uso finaliza.
 
 
 
