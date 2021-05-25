@@ -2,15 +2,14 @@
 
 ## 1. Descripción breve
 
-El ciudadano ingresa a la página y observa los materiales aceptados por el centro de acopio, para tener en cuenta cuales reciclar.
+El ciudadano observa los materiales aceptados por el centro de acopio, para tener en cuenta cuales reciclar.
 
 ## 2. Curso básico de eventos
 
 1. El caso de uso comienza cuando el ciudadano quiere ver los materiales aceptados en la página de la cooperativa.
-2. (INCLUDE) El ciudadano ingresa a la página.
-3. El ciudadano ingresa a la sección correspondiente para ver los materiales aceptados.
-4. La página muestra los materiales aceptados por la cooperativa.
-5. El caso de uso finaliza.
+2. El ciudadano ingresa a la sección correspondiente para ver los materiales aceptados.
+3. La página muestra los materiales aceptados por la cooperativa.
+4. El caso de uso finaliza.
 
 
 ## 3. Cursos alternativos
