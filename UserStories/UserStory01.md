@@ -1,8 +1,8 @@
-﻿# User Story N°1: Como ciudadano quiero poder registrarme para que retiren los elementos reciclables.
+# User Story N°1: Como ciudadano quiero poder registrarme para que retiren los elementos reciclables.
 
-## Un ciudadano se quiere registrar en el sistema para consolidar con la cooperativa el retiro de sus elemento reciclables.
+## Descripción
 
-<<descripción corta>>
+Un ciudadano se quiere registrar en el sistema para consolidar con la cooperativa el retiro de sus elemento reciclables.
 
 ### Criterios de aceptación
 - Debe pedir datos personales.
@@ -14,5 +14,3 @@
 
 1. Pedir datos.
 1. Verificar datos.
-
-
