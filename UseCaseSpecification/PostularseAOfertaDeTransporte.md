@@ -7,17 +7,16 @@ El ciudadano desea postularse a una oferta de transporte, a través de la págin
 ## 2. Curso básico de eventos
 
 1. El caso de uso comienza cuando el ciudadano desea postularse a una oferta de  transporte. 
-2. (INCLUDE) El ciudadano ingresa a la página.
-3. El ciudadano ingresa a la sección correspondiente para ver las ofertas de transporte que se encuentren disponibles.
-4. La página muestra las ofertas disponibles.
-5. El ciudadano selecciona la oferta disponible que más le convenza.
-6. La página solicita nombre, teléfono, dirección.
-7. El ciudadano ingresa los datos mencionados.
-8. La página lista las categorías posibles para el volumen de los materiales.
-9. El ciudadano selecciona el volumen correspondiente.
-10. La página reenvía los datos del ciudadano al generador de la oferta.
-11. La página muestra un aviso de que la postulación fue exitosa.
-12. El caso de uso finaliza.
+2. El ciudadano ingresa a la sección correspondiente de la pagina para ver las ofertas de transporte que se encuentren disponibles.
+3. La página muestra las ofertas disponibles.
+4. El ciudadano selecciona la oferta disponible que más le convenza.
+5. La página solicita nombre, teléfono, dirección.
+6. El ciudadano ingresa los datos mencionados.
+7. La página lista las categorías posibles para el volumen de los materiales.
+8. El ciudadano selecciona el volumen correspondiente.
+9. La página reenvía los datos del ciudadano al generador de la oferta.
+10. La página muestra un aviso de que la postulación fue exitosa.
+11. El caso de uso finaliza.
 
 ## 3. Cursos alternativos
 
