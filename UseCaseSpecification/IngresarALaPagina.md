@@ -24,7 +24,7 @@ El ciudadano accede a la página, ingresando los datos correspondientes.
 ### 4.2 La página no reconoce el DNI ingresado.
 
 1. Se le informa al usuario que no hay cuenta registrada con dicho DNI.
-2. (INCLUDE) Se lo redirige a “Registrarse al sistema”.
+2. (EXTENDS) Se lo redirige a “Registrarse al sistema”.
 3. Luego de haberse creado el usuario, se inicia sesión automáticamente en este.
 4. El caso de uso finaliza.
 
