@@ -1,19 +1,16 @@
-﻿# User Story N°5: Como ciudadano quiero publicar una oferta de transporte para que otras personas puedan unirse al recorrido.
+# User Story N°2: Como cartonero quiero recolectar los materiales asignados, para finalizar todos mis trabajos.
 
-## Como ciudadano quiero poder ofrecer mi ayuda aportando  transporte para una zona determinada.
+## Descripción
+
+Para el caso de los cartoneros, es importante registrar el peso de lo que lleva, ya que es lo que define la paga que va a recibir si se lograra vender el tipo de materiales reciclables que lleva.
 
 ### Criterios de aceptación
 
-- Debe pedir nombre, teléfono, email, dirección, espacio disponible en el vehículo, y una descripción opcional.
-- La cartelera debe generar un post en base a los datos proporcionados: en particular, la zona geográfica, el espacio disponible y la descripción, si la tiene.
-- Debe reconocer la zona geográfica en base a la dirección., para adaptarse a la situación.
+- Debe poder recibir cualquiera de las solicitudes realizadas por un ciudadano (que haya aceptado previamente el sistema).
+- Debe realizarlas en su jornada de trabajo.
 
 ### Tareas para su realización
 
-1. Pedir datos.
-2. Definir la zona geográfica.
-3. Generar post.
-4. Publicar en la cartelera.
-
-
-
+1. Procesar las solicitudes.
+1. Informar al camionero.
+1. Buscar los materiales.

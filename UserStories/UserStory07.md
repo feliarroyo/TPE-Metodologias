@@ -1,6 +1,8 @@
 # User Story N°7: Como secretaria quiero dar de alta empleados para mantener al día la base de datos respecto a nuevas incorporaciones.
 
-## La secretaria quiere poder mantener su lista de empleados siempre al dia, para cumplir con sus deberes, por la cual debe poder dar de alta empleados en la base de datos.
+## Descripción
+
+La secretaria quiere mantener su lista de empleados siempre al dia, para cumplir con sus deberes, por la cual debe tener la opción de dar de alta empleados en la base de datos cuando sea necesario.
 
 ### Criterios de aceptación
 

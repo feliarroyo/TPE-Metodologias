@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Un ciudadano se quiere registrar en el sistema para consolidar con la cooperativa el retiro de sus elemento reciclables.
+Un ciudadano quiere registrarse en el sistema para así consolidar con la cooperativa y aportar a su causa mediante el retiro de sus elementos reciclables.
 
 ### Criterios de aceptación
 - Debe pedir datos personales.

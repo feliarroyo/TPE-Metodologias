@@ -1,6 +1,8 @@
 ﻿# User Story N°4: Como ciudadano quiero ver los materiales aceptados por el centro de acopio para saber como puedo aportar.
 
-## El ciudadano quiere estar al tanto de que elementos reciclan en el centro de acopio para poder llevar o aportar con dichos elementos reciclables.
+## Descripción
+
+El ciudadano quiere estar al tanto de que elementos reciclan en el centro de acopio para estar informado al respecto cuando quiera llevar o aportar dichos elementos reciclables.
 
 ### Criterios de aceptación
 

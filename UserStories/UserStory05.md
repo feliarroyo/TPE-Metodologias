@@ -1,6 +1,8 @@
 ﻿# User Story N°5: Como ciudadano quiero publicar una oferta de transporte para que otras personas puedan unirse al recorrido.
 
-## Como ciudadano quiero poder ofrecer mi ayuda aportando  transporte para una zona determinada.
+## Descripción
+
+El ciudadano decide ofrecer ayuda aportando un transporte para recoger elementos reciclables. Lo hace publicando una oferta en una cartelera virtual de la cooperativa; allí, otros interesados pueden unirse al recorrido que decida realizar en una zona determinada.
 
 ### Criterios de aceptación
 

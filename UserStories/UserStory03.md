@@ -1,6 +1,8 @@
-﻿# User Story N3: Como ciudadano quiero enviar una solicitud de recolección para que los cartoneros puedan venir a buscar mis elementos reciclables.
+﻿# User Story N°3: Como ciudadano quiero enviar una solicitud de recolección para que los cartoneros puedan venir a buscar mis elementos reciclables.
 
-## El ciudadano quiere poder dar aviso a los cartoneros para que retiren lo que reciclo.
+## Descripción
+
+El ciudadano quiere una manera de avisarle a los cartoneros que pasen por su domicilio a retirar lo que recicló.
 
 ### Criterios de aceptación
 

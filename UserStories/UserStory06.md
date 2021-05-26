@@ -1,6 +1,8 @@
 # User Story N°6: Como ciudadano quiero postularme a la oferta de otra persona para hacer uso del servicio.
 
-## Un ciudadano quiere poder utilizar la oferta de transporte por zona de otro ciudadano que se haya postulado.
+## Descripción
+
+Al observar las ofertas de la cartelera virtual, los ciudadanos pueden postularse para ayudar en alguno de los recorridos ofrecidos por otros colaboradores si les interesa.
 
 ### Criterios de aceptación
 
