@@ -1,4 +1,4 @@
-# Sprint Retrospective (Resumen 02-06-21)
+# Sprint Retrospective (Resumen 09-06-21)
 
 ## Toma de nota
 
