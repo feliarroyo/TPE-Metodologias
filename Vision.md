@@ -16,11 +16,13 @@ Paralelamente la Cooperativa de Recuperadores Urbanos de Tandil será otro de lo
 
 ## 3. Needs
 
-Este sistema plantea el desarrollo de la página web para la Cooperativa de Recolectores Urbanos de Tandil, donde cada ciudadano podrá organizar de manera eficiente la recolección de residuos. Como la movilidad de cada recolector es diferente, el volumen de elementos reciclable a llevar es limitado, por lo que en la solicitud de retiro que complete, el usuario deberá especificar que tipo de categoría (se clasifican según su volumen) son sus residuos.
+Este sistema plantea el desarrollo de la página web para la Cooperativa de Recolectores Urbanos de Tandil, donde cada ciudadano podrá organizar de manera eficiente la recolección de residuos. 
 
-A su vez, hay que mantener registro no solo de los recolectores que participan de la cooperativa, sino de cada uno de los usuarios interesados en cooperar. El incremento en acceso que probablemente brinde la renovación de las actividades de los cartoneros necesitará un aumento en la cantidad de recursos disponibles para usar, tanto en personal humano como maquinaria.
+El ciudadano necesita un sistema intuitivo, y fácil de usar para la recolección de materiales reciclables. Por lo tanto, se espera que la aplicación desarrollada logre esto mediante la implementación de sistemas donde el ciudadano usuario pueda informar respecto a lo que desee reciclar, dónde, entre otros datos, y establezca automáticamente contacto con los cartoneros para hacer el proceso de reciclado más rápido y dinámico. También se deben ofrecer comodidades para que el proceso sea lo más sencillo posible para el usuario promedio.
 
-También se deberá automatizar e interconectar varias tareas previamente realizadas de manera manual para que se comuniquen con el sistema a elaborar.
+A su vez, miembros de la cooperativa (como la secretaria) están interesados en obtener un sistema de registro para no solo de los recolectores que participan de la cooperativa, sino de cada uno de los usuarios interesados en cooperar. La automatización de los múltiples servicios que ofrece servirá para incrementar la eficiencia de su trabajo.
+
+El incremento en acceso que probablemente brinde la renovación de las actividades de los cartoneros necesitará un aumento en la cantidad de recursos disponibles para usar, tanto en personal humano como maquinaria.
 
 ## 4. Product
 
