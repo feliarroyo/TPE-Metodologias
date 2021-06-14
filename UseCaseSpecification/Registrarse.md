@@ -1,11 +1,15 @@
-# Especificación de caso de uso: Registrarse en la página
+# Especificación de caso de uso
 
-## 1. Descripción breve
+## Nombre de caso de uso
+Registrar
 
+## Descripción
 El ciudadano crea un usuario, donde ingresa sus datos personales y define cómo quiere que sean los retiros de sus materiales.
 
-## 2. Curso básico de eventos
+## Actor primario
+Ciudadano
 
+## Curso básico de eventos
 1. El caso de uso comienza cuando el ciudadano quiere registrarse a la página de la cooperativa.
 2. La página solicita los datos personales.
 3. El ciudadano ingresa su nombre, apellido, dirección, teléfono y fecha de nacimiento. Opcionalmente, podría ingresar una imagen.
@@ -15,22 +19,19 @@ El ciudadano crea un usuario, donde ingresa sus datos personales y define cómo 
 7. La página guarda los datos de la cuenta del ciudadano.
 8. El caso de uso finaliza.
 
-## 3. Cursos alternativos
+## Cursos alternativos
+_(A partir del paso 4, si el DNI ya tiene un usuario asociado)_
+1. Se le informa al usuario que ya hay una cuenta registrada con dicho DNI.
+2. El caso de uso finaliza.
 
-### 6.1 La contraseña ingresada es incorrecta
-
-1. El DNI ya fue utilizado en otra cuenta.
-2. Se le informa al usuario que ya hay una cuenta registrada con dicho DNI.
-3. El caso de uso finaliza.
-
-## 4. Suposiciones
-
-Debe haber un ciudadano interesado en ingresar al sistema de nuestra cooperativa (que no tenga un usuario creado con anterioridad)
-
-## 5. Precondición
-
+## Precondición
 Ninguna.
 
-## 6. Postcondición
+## Suposiciones
+Debe haber un ciudadano interesado en ingresar al sistema de nuestra cooperativa (que no tenga un usuario creado con anterioridad)
 
+## Postcondición
 El ciudadano ahora tiene un usuario con el cual ingresar a la página y publicar o postularse a ofertas.
+
+## Caso de uso extendido
+Extiende al caso de uso Ingresar a la página. Cuando se necesita registrar a un ciudadano, en el PTO EXT [Necesita registrarse].

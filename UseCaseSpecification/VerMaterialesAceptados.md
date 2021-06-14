@@ -1,29 +1,35 @@
-# Especificación del caso de uso: Ver materiales aceptados
+# Especificación del caso de uso
 
-## 1. Descripción breve
+## Nombre de caso de uso
+Ver materiales aceptados
 
-El ciudadano observa los materiales aceptados por el centro de acopio, para tener en cuenta cuales reciclar.
+## Descripción
+El ciudadano ingresa a la página y observa los materiales aceptados por el centro de acopio, para tener en cuenta cuales reciclar.
 
-## 2. Curso básico de eventos
+## Actor primario
+Ciudadano
 
+## Trigger
+El caso de uso comienza cuando el ciudadano quiere ver los materiales aceptados en la página de la cooperativa.
+
+## Curso básico de eventos
 1. El caso de uso comienza cuando el ciudadano quiere ver los materiales aceptados en la página de la cooperativa.
-2. El ciudadano ingresa a la sección correspondiente para ver los materiales aceptados.
-3. La página muestra los materiales aceptados por la cooperativa.
-4. El caso de uso finaliza.
+2. [INCLUDE] Ingresar a la página.
+3. El ciudadano ingresa a la sección correspondiente para ver los materiales aceptados.
+4. La página muestra los materiales aceptados (y los que no lo son) por la cooperativa.
+5. El caso de uso finaliza.
 
-
-## 3. Cursos alternativos
-
+## Cursos alternativos
 No tiene. 
 
-## 4. Suposiciones
-
-La página tiene una lista de materiales cargada.
-
-## 5. Precondición
-
+## Precondición
 El ciudadano cuenta con un usuario en la página.
 
-## 6. Postcondición
+## Suposiciones
+La página tiene una lista de materiales cargada.
 
+## Postcondición
 El ciudadano ha observado la lista de materiales en la página.
+
+## Caso de uso incluido/que incluye
+Ingresar a la página
