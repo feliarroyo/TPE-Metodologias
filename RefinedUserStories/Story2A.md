@@ -5,3 +5,4 @@
 - Se debe permitir la subida opcional de una imagen de los materiales.
 - Una vez recolectados y validados todos los datos, se crea una cuenta asociada al ciudadano con todos los listados previamente.
 - Si se detecta que el ciudadano ya tiene una cuenta creada, se detiene el proceso de registro y se le notifica al respecto.
+- Si los datos no pudieran ser validados, se permiten hasta 3 intentos de registro; de lo contrario, se bloquea la cuenta.
