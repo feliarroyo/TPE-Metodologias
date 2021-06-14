@@ -1,5 +1,6 @@
 # User Story: Como ciudadano quiero que el sistema reconozca automáticamente la zona geográfica en base a la dirección para mantener mi privacidad.
 
 ## Criterios de aceptación
-- Se debe poder ingresar la dirección del ciudadano.
-- Se debe permitir filtrar los resultados de la zona geográfica a través de la dirección para mayor privacidad.
+- Debe reconocer cualquier dirección procedente de la localidad de la cooperativa, y asignar una zona geográfica acorde.
+- La zona geográfica se debe definir en función al barrio de la dirección, para mayor privacidad.
+- Si una dirección no es reconocida, se debe ofrecer como alternativa al ciudadano el ingreso manual de una zona geográfica.
