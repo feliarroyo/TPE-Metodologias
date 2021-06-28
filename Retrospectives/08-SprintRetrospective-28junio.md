@@ -5,9 +5,9 @@
 - El diagrama de deployment hay que darle una segunda pasada: definir correctamente los tipos; recontextualizar deploys exe como "artefactos" donde cada uno representa un subsistema; se podría indicar en cada linea entre nodos como es la conexión (ej.: bluetooth).
 - Separar segmentos de red mediante "firewalls".
 - Faltarían incluir "clientes" de cartonero y ciudadano (y la secretaria también sería cliente probablemente)
-
-### En cuanto a la entrega
 - Hay tiempo hasta mañana al medio día.
+
+### En cuanto a la defensa
 - Consiste de una charla sobre lo que vio, pregunta cosas a cada uno del grupo. Sería "informal, un ida y vuelta".
 - Puede llegarse a preguntar algo de las primeras entregas. 
 - La idea es que todos tengan un panorama completo del trabajo.
