@@ -2,4 +2,6 @@
 
 ## Criterios de aceptación
 - El listado debe llegar sin falta a todos los cartoneros antes del inicio de su jornada.
-- El listado debe enviarse por mail a la secretaria de la cooperativa; y esta lo difunde a los cartoneros.
+- El listado de recorridos debe indicar para cada recorrido: a quién le toca realizarlo; y las paradas a realizar en orden.
+- El listado debe enviarse a la secretaria de la cooperativa; que lo debe difundir a los cartoneros.
+- El envío de listados se realiza por email.
